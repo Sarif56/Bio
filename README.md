@@ -1,4 +1,3 @@
-# sarifariansyah.github.io
 Website Pertama Saya
 
 Selamat datang di website saya!
